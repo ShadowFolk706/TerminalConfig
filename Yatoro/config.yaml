@@ -3,17 +3,19 @@ ui:
 
   artwork:
     blit: 'pixel'
-    width: 500
-    height: 500
+    width: 1000
+    height: 1000
 
   layout:
     # pages: [nowPlaying, queue, search]
-    pages: [nowPlaying, search]
-    cols: 1
+    pages: [search, queue, nowPlaying]
+    cols: 2
     rows: 2
 
 settings:
+  disableResize: false
   searchItemLimit: 10
+  disableITermWorkaround: false
 
 mappings:
   - key: SPACE

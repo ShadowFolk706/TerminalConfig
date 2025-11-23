@@ -44,6 +44,8 @@
 
 theme = DeFualt
 
+macos-icon = custom-style 
+
 font-family = "JetBrainsMono Nerd Font"
 font-size = 16
 
@@ -62,7 +64,7 @@ split-divider-color = #eadcb2
 
 link-url = true
 
-# initial-command = clear
+# command = nothing!!!
 
 maximize = false
 fullscreen = false
@@ -220,4 +222,3 @@ macos-auto-secure-input = true
 macos-secure-input-indication = false
 
 bold-is-bright = true
-

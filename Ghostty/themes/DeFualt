@@ -1,0 +1,51 @@
+# rød
+#background=#211111
+# mørktrød
+background = #0d0000
+# blå
+#background = #000f21
+
+palette = 0=#51576d
+palette = 1=#e93356
+# palette = 2=#bd2523
+# palette = 2=#911c1a
+# palette = 2=#751717
+# palette = 2=#e302bc
+palette = 2=#f27201
+palette = 3=#b9573c
+palette = 4=#242e10
+# darkg	palette = 4=#0e1206
+palette = 5=#377d32
+palette = 6=#07455c
+# navy	palette = 6=#0b3240
+# egg 	palette = 6=#c9a554
+palette = 7=#e5e5e5
+
+palette = 8=#797979
+palette = 9=#e93356
+# palette = 10=#bd2523
+# palette = 10=#911c1a
+# palette = 10=#0b3240
+# palette = 10=#e302bc
+# palette = 10=#8a210a
+palette = 10=#f27201
+palette = 11=#b9573c
+palette = 12=#8aa345
+# palette = 12=#64802a
+# palette = 13=#910040
+palette = 13=#4bd660
+palette = 14=#0b3240
+# palette = 14=#c9a554
+palette = 15=#e5e5e5
+
+foreground=#A79983
+foreground=#c9baa5
+
+# selection-foreground=#EADCB2
+selection-background=#471818
+
+# minimum-contrast=1
+
+
+# cursor-color=#fbedc4
+cursor-color=#ffffff

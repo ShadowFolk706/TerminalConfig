@@ -1,0 +1,22 @@
+background = #211111                        
+                                            
+palette = 0=#51576d                         
+palette = 1=#e93356                         
+palette = 2=#bd2523                         
+palette = 3=#b9573c                         
+palette = 4=#78824b                         
+palette = 5=#4bd660                         
+palette = 6=#c9a554                         
+palette = 7=#e5e5e5                         
+palette = 8=#797979                         
+palette = 9=#e93356                         
+palette = 10=#bd2523                        
+palette = 11=#b9573c                        
+palette = 12=#78824b                        
+palette = 13=#4bd660                        
+palette = 14=#c9a554                        
+palette = 15=#e5e5e5                        
+                                            
+foreground=#A79983                          
+                                            
+</.config/ghostty/themes/DeFualt" 27L, 471B

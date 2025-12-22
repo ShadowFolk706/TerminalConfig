@@ -1,12 +1,13 @@
 # theme = DeFualt
 theme = Gruvbox Dark Hard
-background = #000000
-
+# background = #000000
+background = #1c1b18
 
 macos-icon = custom-style 
 
 font-family = "JetBrainsMono Nerd Font"
-font-size = 16
+# font-size = 16
+font-size = 10
 
 cursor-opacity = 1
 cursor-style=bar
@@ -129,11 +130,20 @@ window-theme = dark
 
 window-colorspace = display-p3
 
+# ------------------------------------------------
+
 # window-height = 21
 # window-width = 91
-window-height = 36
-window-width = 90
 
+# For 16 pt font
+# window-height = 36
+# window-width = 90
+
+# For 10 pt font
+window-height = 57
+window-width = 172
+
+# ------------------------------------------------
 
 window-position-x = 269
 window-position-y = 198

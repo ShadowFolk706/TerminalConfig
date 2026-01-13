@@ -140,8 +140,11 @@ window-width = 90
 
 # ------------------------------------------------
 
-window-position-x = 269
-window-position-y = 198
+# window-position-x = 269
+# window-position-y = 198
+
+window-position-x = 268
+window-position-y = 30
 
 window-new-tab-position = end
 
@@ -193,4 +196,3 @@ macos-auto-secure-input = true
 macos-secure-input-indication = false
 
 bold-is-bright = true
-

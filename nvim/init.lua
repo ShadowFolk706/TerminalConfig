@@ -29,7 +29,7 @@ vim.opt.scrolloff = 8
 vim.opt.clipboard = "unnamedplus"
 vim.opt.signcolumn = "yes:1"
 vim.opt.statuscolumn = "%=%l │ "
-vim.opt.laststatus = 3
+vim.opt.laststatus = 0
 vim.opt.cmdheight = 0
 
 vim.opt.numberwidth = 3

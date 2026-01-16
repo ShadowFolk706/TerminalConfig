@@ -13,7 +13,7 @@ A collection of my Dotfiles for the configuration of:
     - Album Cover Settings
 - Bash Profile
     - Aliases
-          - Aliases were created with other commands in mind, if a potential alias was already a command, then a different alias was used, these aliases will work with default packages; however, if you have another package installed that uses an alias to be called, simply change the alias to prevent one of the commands not working.
+      - Aliases were created with other commands in mind, if a potential alias was already a command, then a different alias was used, these aliases will work with default packages; however, if you have another package installed that uses an alias to be called, simply change the alias to prevent one of the commands not working.
     - PS1 and PS2 (prompt) customization
 
 Demo Image:

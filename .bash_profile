@@ -23,3 +23,8 @@ export PS1="\[$yellow$bold\]┌──╼ \[$reset$green\]\u\[$reset\] ⇀ \[$res
 # export PS1='\u@\h:\w\$ '
 
 export PS2='\[$orange$bold\]> '
+
+# Setting PATH for Python 3.14
+# The original version is saved in .bash_profile.pysave
+PATH="/Library/Frameworks/Python.framework/Versions/3.14/bin:${PATH}"
+export PATH
